@@ -28,7 +28,7 @@ Depends: R (>= 4.2)
 Suggests: knitr, rmarkdown, stringr, sarp.snowprofile.alignment
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2026-01-13 05:45:25 UTC; Pascal
+Packaged: 2026-01-13 14:31:43 UTC; Pascal
 Author: Pascal Haegeli [aut, cre],
   Simon Horton [aut],
   Florian Herla [aut],

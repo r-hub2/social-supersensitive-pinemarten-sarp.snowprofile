@@ -57,7 +57,7 @@ Import functions for generic snow profiles include::
 - CAAML (`snowprofileCaaml`)
 - csv (`snowprofileCsv`)
 
-and import functions for simulated profiles produced with the snow cover model [SNOWPACK](https://models.slf.ch/p/snowpack/) include:
+and import functions for simulated profiles produced with the snow cover model [SNOWPACK](https://snowpack.slf.ch) include:
 
 - prf (`snowprofilePrf`)
 - pro (`snowprofilePro`)

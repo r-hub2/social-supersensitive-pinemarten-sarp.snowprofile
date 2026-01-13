@@ -197,7 +197,7 @@ new_snowprofile <- function(station = character(),
 #'
 #' ## Test profile:
 #' testProfile <- snowprofile(station = 'SARPstation', station_id = 'SARP007',
-#'                            datetime = as.POSIXct('2019/04/01 10:00:00', tz = 'PDT'),
+#'                            datetime = as.POSIXct('2019/04/01 10:00:00', tz = 'Etc/GMT+7'),
 #'                            latlon = c(49.277223, -122.915084), aspect = 180,
 #'                            layers = snowprofileLayers(height = c(10, 25, 50),
 #'                                                       hardness = c(3, 2, 1),

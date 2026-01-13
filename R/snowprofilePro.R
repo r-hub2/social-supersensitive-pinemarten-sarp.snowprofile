@@ -14,9 +14,9 @@
 #'
 #' @details
 #'
-#' Several SNOWPACK model output formats exist see \href{https://models.slf.ch/docserver/snowpack/html/snowpackio.html}{SNOWPACK documentation}
+#' Several SNOWPACK model output formats exist see \href{https://snowpack.slf.ch/doc-release/html/snowpackio.html}{SNOWPACK documentation}
 #'
-#' Definitions of PRO files are provided at \href{https://models.slf.ch/docserver/snowpack/html/pro_format.html}{https://models.slf.ch/docserver/snowpack/html/pro_format.html} and an example file is available at \href{https://run.niviz.org/?file=resources%2Fexample.pro}{niViz}
+#' Definitions of PRO files are provided at \href{https://snowpack.slf.ch/doc-release/html/pro_format.html}{https://snowpack.slf.ch/doc-release/html/pro_format.html} and an example file is available at \href{https://run.niviz.org/?file=resources%2Fexample.pro}{niViz}
 #'
 #' PRO files typically contain profiles from the same station at multiple time steps. If a specific `ProfileDate` is provided a single snowprofile object is returned (search available dates with `scanProfileDates`), otherwise all profiles are read and a list of snowprofile objects is returned.
 #'

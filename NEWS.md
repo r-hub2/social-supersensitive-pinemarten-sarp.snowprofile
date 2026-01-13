@@ -1,4 +1,4 @@
-# sarp.snowprofile 1.3.3.9000
+# sarp.snowprofile 1.4.0
   
   * Add `writePro` function that writes a `snowprofileSet` to a PRO file.
   * Fixed few bugs in the `snowprofile` constructor that would not populate scalar parameters provided (e.g., `ski_pen`, `hn24`, etc)

@@ -16,7 +16,7 @@ a \link{snowprofile} object
 Read .sno files from SNOWPACK model input/output
 }
 \details{
-Several SNOWPACK model output formats exist see \href{https://models.slf.ch/docserver/snowpack/html/snowpackio.html}{SNOWPACK documentation}
+Several SNOWPACK model output formats exist see \href{https://snowpack.slf.ch/doc-release/html/smet.html}{SNOWPACK documentation}
 
 Definitions of SNO files are provided at \href{https://models.slf.ch/docserver/snowpack/html/smet.html}{https://models.slf.ch/docserver/snowpack/html/smet.html}
 }

@@ -20,9 +20,9 @@ a single snowprofile object of list of multiple snowprofile objects
 Read .prf files from SNOWPACK model output
 }
 \details{
-Several SNOWPACK model output formats exist see \href{https://models.slf.ch/docserver/snowpack/html/snowpackio.html}{SNOWPACK documentation}
+Several SNOWPACK model output formats exist see \href{https://snowpack.slf.ch/doc-release/html/snowpackio.html}{SNOWPACK documentation}
 
-Definitions of PRF files are provided at \href{https://models.slf.ch/docserver/snowpack/html/prf_format.html}{https://models.slf.ch/docserver/snowpack/html/prf_format.html}
+Definitions of PRF files are provided at \href{https://snowpack.slf.ch/doc-release/html/prf_format.html}{https://snowpack.slf.ch/doc-release/html/prf_format.html}
 
 PRF files typically contain profiles from the same station at multiple time steps. If a specific \code{ProfileDate} is provided a single snowprofile object is returned (search available dates with \code{scanProfileDates}), otherwise all profiles are read and a list of snowprofile objects is returned.
 }
